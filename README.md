@@ -1,4 +1,4 @@
-In this project, we write Python code for Boolean algebra and functions. Much of the present assignment mirrors work done in the previous assignment on Propositional Logic and Truth Tables.
+In this project, we write Python code for Boolean algebra and functions. Much of the present project mirrors work done in the project Propositional Logic and Truth Tables.
 
 [1] Define and implement the seven operators b_not, b_and, b_or, b_xor, b_nand, b_nor, b_xnor as 0/1 boolean functions (not T/F). Consider all to be binary (degree 2) functions except b_not which is unary (degree 1):
   
